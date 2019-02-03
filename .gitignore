@@ -1,0 +1,8 @@
+**/*.o
+lib/libsbn.a
+bin/sbntest
+bin/sbntest.exe
+**/.svn
+**/*.html
+doc/html
+doc/latex
