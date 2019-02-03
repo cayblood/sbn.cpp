@@ -3,13 +3,13 @@
 C++ version of Simple Bayesian Network library. Ruby version can be found
 [here](https://github.com/cayblood/sbn)
 
-# Building the library
+## Building the library
 
 ```
 make
 ```
 
-# Building the docs
+## Building the docs
 
 Requires doxygen and graphviz.
 
@@ -17,7 +17,7 @@ Requires doxygen and graphviz.
 make doc
 ```
 
-# Running the tests
+## Running the tests
 
 ```
 make check
