@@ -1,7 +1,7 @@
 # sbn.cpp 0.0.1
 
-C++ version of Simple Bayesian Network library. Ruby version can be found
-[here](https://github.com/cayblood/sbn)
+This is a C++ version of Simple Bayesian Network library, written in 2006. A Ruby version with
+similar features and more documentation can be found [here](https://github.com/cayblood/sbn).
 
 ## Building the library
 
